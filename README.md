@@ -17,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haili321&show_icons=true&locale=en" alt="haili321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haili321&" alt="haili321" /></p>
+<p align="center">
+
+![](https://github.com/ueanperfect/ueanperfect/blob/main/assets/github-contribution-grid-snake.svg)
+</p>
